@@ -1,0 +1,30 @@
+header{
+    align-items: center;
+}
+#menu{
+    margin-bottom: 0;
+    margin-left: 38rem;
+    display: flex;
+    float:center;
+    margin-top: 0rem;
+    font-size: 20px;
+}
+
+#menu .items {
+  
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-right: 3.4rem;
+    margin-left: 5rem;
+}   
+
+a{
+    text-transform: lowercase;
+    text-decoration: none;
+    color: #f9f9f9;
+
+}
+a:hover{
+    color:#888888;
+}

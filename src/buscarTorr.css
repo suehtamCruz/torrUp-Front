@@ -1,0 +1,14 @@
+#find-torr{
+    font-size: 15pt;
+}
+#buttonFind {
+    padding: 9px;
+    border: none;
+    background-color: #44BF5C;
+    color:white;
+    font-size:9pt;
+    display: inline-block;
+    margin: 4px 10px;
+    border-radius: 10%;
+    cursor : pointer;
+}
